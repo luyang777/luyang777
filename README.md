@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luyang777
-- 👀 I’m interested in Web Development, Data Anaysis.
+- 👀 I’m interested in Web Development, data analysis.
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
